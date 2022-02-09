@@ -1,0 +1,19 @@
+{
+  "name": "noughts-and-crosses-plan-uniqueroom9",
+  "version": "1.0.0",
+  "description": "## Noughts and Crosses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/noughts-and-crosses-plan-uniqueroom9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/noughts-and-crosses-plan-uniqueroom9/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/noughts-and-crosses-plan-uniqueroom9#readme"
+}
